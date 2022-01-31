@@ -16,4 +16,7 @@ In this project, Pandas, Pipelines, Sklearn, numpy, Matplotlib and other python 
 
 For deployment, I used Flask, which can be found in the test_model and final_model python files.
 
+Provided is the test data, split from the training data, to test the test_model.py 
+
+
 
