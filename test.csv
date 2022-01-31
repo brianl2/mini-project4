@@ -1,0 +1,6 @@
+Loan_Amount_Term,Credit_History,Log_LoanAmount,Log_Income,Gender_Female,Gender_Male,Gender_Other,Married_No,Married_Yes,Dependents_0,Dependents_1,Education_Graduate,Education_Not Graduate,Self_Employed_No,Self_Employed_Yes,Property_Area_Rural,Property_Area_Semiurban,Property_Area_Urban
+360.0,1.0,5.429345628954441,9.114159813502214,0,1,0,0,1,1,0,1,0,1,0,0,1,0
+360.0,0.0,4.867534450455582,8.368693183097793,0,1,0,0,1,1,0,1,0,1,0,0,1,0
+360.0,1.0,5.062595033026967,8.633018756921828,0,1,0,0,1,0,1,1,0,1,0,1,0,0
+360.0,1.0,4.2626798770413155,7.9724660159745655,1,0,0,1,0,1,0,1,0,1,0,1,0,0
+360.0,1.0,4.248495242049359,7.907651594711089,0,1,0,1,0,1,0,1,0,1,0,0,1,0
